@@ -1,6 +1,6 @@
 # Animal class
 
-A simple class for storing dogs.<br>
+A simple class for storing dog information.<br>
 
 The **Project Folder** directory contains:
 1. Dog1 - dog class
